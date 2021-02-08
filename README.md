@@ -22,9 +22,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/PG4JR2E' title='Video Walkthrough' width='' alt='Adding Tasks' />
-<img src='https://imgur.com/7uCP8DW' title='Video Walkthrough' width='' alt='Removing Tasks' />
-<img src='https://imgur.com/s06NB2T' title='Video Walkthrough' width='' alt='Persistence' />
+<img src='https://imgur.com/PG4JR2E.gif' title='Video Walkthrough' width='' alt='Adding Tasks' />
+<img src='https://imgur.com/7uCP8DW.gif' title='Video Walkthrough' width='' alt='Removing Tasks' />
+<img src='https://imgur.com/s06NB2T.gif' title='Video Walkthrough' width='' alt='Persistence' />
 
 ## Notes
 
